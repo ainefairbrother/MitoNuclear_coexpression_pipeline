@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/306084734.svg)](https://zenodo.org/badge/latestdoi/306084734)
+
 # MitoNuclear_coexpression_pipeline
 Pipeline to produce mitochondrial-nuclear correlation matrices from TPM matrices 
 
