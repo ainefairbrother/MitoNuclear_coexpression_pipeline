@@ -1,6 +1,9 @@
 [![DOI](https://zenodo.org/badge/306084734.svg)](https://zenodo.org/badge/latestdoi/306084734)
 
-# MitoNuclear_coexpression_pipeline
+# MitoNuclear_coexpression_pipeline 
+
+See associated publication: https://www.nature.com/articles/s42003-021-02792-w 
+
 Pipeline to produce mitochondrial-nuclear correlation matrices from TPM matrices 
 
 |         Function_file        |       Function_name       |                                                                                            Description                                                                                            |                                                                                                                      Input                                                                                                                      |                             Output                             |              Dataset specific              |
